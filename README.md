@@ -1,4 +1,2 @@
 # my_node_projects
-I am learning git 
-
-sdasd
+I am learning git. ok some more change 
